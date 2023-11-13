@@ -1,4 +1,4 @@
-# Week 16: React Router, React-Bootstrap-->
+# Week 16: React Router, React-Bootstrap
 
 ## React v17
 
