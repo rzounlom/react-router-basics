@@ -53,9 +53,9 @@ We will be using react 17 and react router 5v per the curriculum.
 - we install them like any other third party library (make sure to refer to the docs for install and component usage)
 - We will be using react-bootstrap for the demo app
 - Resource
-  -- React Bootstrap Component Library --> https://react-bootstrap.github.io/
-  -- Semantic UI React Component Library --> https://react.semantic-ui.com/
-  -- Material UI Component Library --> https://mui.com/
-  -- AntD Component Library --> https://ant.design/docs/react/introduce
+  - React Bootstrap Component Library --> https://react-bootstrap.github.io/
+  - Semantic UI React Component Library --> https://react.semantic-ui.com/
+  - Material UI Component Library --> https://mui.com/
+  - AntD Component Library --> https://ant.design/docs/react/introduce
 
 ## App Demo --> a basic blog app using the react-bootstrap component library for styling
