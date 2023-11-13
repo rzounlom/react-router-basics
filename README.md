@@ -52,7 +52,7 @@ We will be using react 17 and react router 5v per the curriculum.
 - similar to css libraries like bootstrap or semantic ui (there are react components libraries for both)
 - we install them like any other third party library (make sure to refer to the docs for install and component usage)
 - We will be using react-bootstrap for the demo app
-- Resource
+- Resources
   - React Bootstrap Component Library --> https://react-bootstrap.github.io/
   - Semantic UI React Component Library --> https://react.semantic-ui.com/
   - Material UI Component Library --> https://mui.com/
